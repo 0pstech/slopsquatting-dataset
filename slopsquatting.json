@@ -17766,23 +17766,6 @@
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-cratesio-47644824a6"
  },
  {
-  "id": "VDB-SLOP-cratesio-ee8513dff0",
-  "ecosystem": "crates.io",
-  "name": "cdx_rs",
-  "purl": "pkg:cargo/cdx_rs",
-  "risk": "medium",
-  "registry_status": "young",
-  "built_from": null,
-  "models": [
-   "gemini-2.5-flash"
-  ],
-  "tasks": [
-   "Rust crate for parsing CycloneDX SBOM"
-  ],
-  "first_seen": "2026-07-18T21:17:24.699728+00:00",
-  "url": "https://vdb.ai.kr/vuln/VDB-SLOP-cratesio-ee8513dff0"
- },
- {
   "id": "VDB-SLOP-cratesio-3b241faec2",
   "ecosystem": "crates.io",
   "name": "cdxgen",
@@ -21087,8 +21070,8 @@
   "ecosystem": "npm",
   "name": "@nteract/mdx",
   "purl": "pkg:npm/@nteract/mdx",
-  "risk": "high",
-  "registry_status": "nonexistent",
+  "risk": "medium",
+  "registry_status": "nonexistent in a scope that has an owner",
   "built_from": null,
   "models": [
    "gpt-4o-mini"
@@ -21291,8 +21274,8 @@
   "ecosystem": "npm",
   "name": "@ronomon/sql",
   "purl": "pkg:npm/@ronomon/sql",
-  "risk": "high",
-  "registry_status": "nonexistent",
+  "risk": "medium",
+  "registry_status": "nonexistent in a scope that has an owner",
   "built_from": null,
   "models": [
    "gemini-2.5-flash"
