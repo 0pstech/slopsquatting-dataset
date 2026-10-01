@@ -28,7 +28,8 @@ that a check against it is possible before that happens.
 | `name` | The name as the registry would store it (lower case on npm, PEP 503 on PyPI). |
 | `purl` | Package URL. |
 | `risk` | `high` or `medium`. Medium means an npm scope with an owner — a failed install, not a hostile package. |
-| `registry_status` | Why it was flagged: `nonexistent`, `recently-registered`, `registered but never published`. |
+| `registry_status` | Why it was flagged: `nonexistent`, `registered after the name was suggested`, `registered but never published`, `unpublished — the name is a tombstone`. |
+| `built_from` | The repository the registry says the package was built from (npm provenance / PEP 740), when there is a signed build statement. Empty otherwise — a name that does not exist has nothing to attest. |
 | `models` | Which models produced the name. |
 | `tasks` | The coding task each was asked to solve. |
 | `first_seen` | When we first recorded it. |
