@@ -20985,8 +20985,8 @@
   "ecosystem": "npm",
   "name": "@knex/core",
   "purl": "pkg:npm/@knex/core",
-  "risk": "high",
-  "registry_status": "nonexistent",
+  "risk": "medium",
+  "registry_status": "nonexistent in a scope that has an owner",
   "built_from": null,
   "models": [
    "gemini-2.5-flash"
@@ -21274,8 +21274,8 @@
   "ecosystem": "npm",
   "name": "@pusher/pusher-js",
   "purl": "pkg:npm/@pusher/pusher-js",
-  "risk": "high",
-  "registry_status": "nonexistent",
+  "risk": "medium",
+  "registry_status": "nonexistent in a scope that has an owner",
   "built_from": null,
   "models": [
    "claude-haiku-4-5"
@@ -27252,6 +27252,23 @@
   ],
   "first_seen": "2026-07-16T21:18:14.491852+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-npm-e3e35e99a4"
+ },
+ {
+  "id": "VDB-SLOP-npm-2287cf036a",
+  "ecosystem": "npm",
+  "name": "margins",
+  "purl": "pkg:npm/margins",
+  "risk": "high",
+  "registry_status": "registered in the last two weeks",
+  "built_from": null,
+  "models": [
+   "gpt-4o-mini"
+  ],
+  "tasks": [
+   "Node.js wrapper for the OpenAI Realtime API"
+  ],
+  "first_seen": "2026-08-31T03:15:43.475029+00:00",
+  "url": "https://vdb.ai.kr/vuln/VDB-SLOP-npm-2287cf036a"
  },
  {
   "id": "VDB-SLOP-npm-0c6e7c3ff8",

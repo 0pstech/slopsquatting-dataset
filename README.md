@@ -3,7 +3,7 @@
 Package names that large language models recommended for ordinary coding
 tasks, and that do not exist in the registry they were recommended for.
 
-**1907 names** as of 2026-10-02 — PyPI 951, npm 713, crates.io 166, Go 77.
+**1908 names** as of 2026-10-02 — PyPI 951, npm 714, crates.io 166, Go 77.
 2 were produced by more than one
 model.
 
@@ -28,8 +28,8 @@ that a check against it is possible before that happens.
 | `name` | The name as the registry would store it (lower case on npm, PEP 503 on PyPI). |
 | `purl` | Package URL. |
 | `risk` | `high` or `medium`. Medium means an npm scope with an owner — a failed install, not a hostile package. |
-| `registry_status` | Why it was flagged: `nonexistent`, `registered after the name was suggested`, `registered but never published`, `unpublished — the name is a tombstone`. |
-| `built_from` | The repository the registry says the package was built from (npm provenance / PEP 740), when there is a signed build statement. Empty otherwise — a name that does not exist has nothing to attest. |
+| `registry_status` | Why it was flagged: `nonexistent`, `registered in the last two weeks`, `young` (under 60 days), `registry gave no creation date`, `registered but never published`, `unpublished — the name is a tombstone`. |
+| `built_from` | The repository the registry says the package was built from (npm provenance / PEP 740), when there is a signed build statement. Evidence for the reader, not a verdict: anyone can attest a build from their own repository, so it never lowers `risk`. Empty otherwise. |
 | `models` | Which models produced the name. |
 | `tasks` | The coding task each was asked to solve. |
 | `first_seen` | When we first recorded it. |
