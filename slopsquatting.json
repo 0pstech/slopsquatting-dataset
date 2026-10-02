@@ -17851,6 +17851,23 @@
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-cratesio-47644824a6"
  },
  {
+  "id": "VDB-SLOP-cratesio-83e3714e31",
+  "ecosystem": "crates.io",
+  "name": "cdx-rs",
+  "purl": "pkg:cargo/cdx-rs",
+  "risk": "medium",
+  "registry_status": "young",
+  "built_from": null,
+  "models": [
+   "gemini-2.5-flash"
+  ],
+  "tasks": [
+   "Rust crate for parsing CycloneDX SBOM"
+  ],
+  "first_seen": "2026-09-04T15:17:20.361895+00:00",
+  "url": "https://vdb.ai.kr/vuln/VDB-SLOP-cratesio-83e3714e31"
+ },
+ {
   "id": "VDB-SLOP-cratesio-3b241faec2",
   "ecosystem": "crates.io",
   "name": "cdxgen",
@@ -21153,8 +21170,8 @@
   "ecosystem": "npm",
   "name": "@microsoft/signal",
   "purl": "pkg:npm/@microsoft/signal",
-  "risk": "high",
-  "registry_status": "nonexistent",
+  "risk": "medium",
+  "registry_status": "nonexistent in a scope that has an owner",
   "built_from": null,
   "models": [
    "gemini-2.5-flash"
