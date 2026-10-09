@@ -2750,7 +2750,7 @@
   "tasks": [
    "Python library to canonicalise PURLs"
   ],
-  "first_seen": "2026-10-07T22:44:42.597388+00:00",
+  "first_seen": "2026-10-09T09:18:04.303084+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-72c85a831a"
  },
  {
@@ -3056,7 +3056,7 @@
   "tasks": [
    "Python library for fast CSV reading"
   ],
-  "first_seen": "2026-10-08T21:16:21.941328+00:00",
+  "first_seen": "2026-10-09T09:16:24.640701+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-9f38eb717d"
  },
  {
@@ -3740,6 +3740,23 @@
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-65467ee65d"
  },
  {
+  "id": "VDB-SLOP-pypi-d2736a544e",
+  "ecosystem": "PyPI",
+  "name": "cyclonedx-explorer",
+  "purl": "pkg:pypi/cyclonedx-explorer",
+  "risk": "high",
+  "registry_status": "nonexistent",
+  "built_from": null,
+  "models": [
+   "gpt-4o-mini"
+  ],
+  "tasks": [
+   "Python library for SBOM CycloneDX 1.5 parsing"
+  ],
+  "first_seen": "2026-10-09T09:16:53.142832+00:00",
+  "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-d2736a544e"
+ },
+ {
   "id": "VDB-SLOP-pypi-aa059e2910",
   "ecosystem": "PyPI",
   "name": "cyclonedx-extractor",
@@ -3855,7 +3872,7 @@
   "tasks": [
    "Python library for SBOM CycloneDX 1.5 parsing"
   ],
-  "first_seen": "2026-10-08T09:29:37.972787+00:00",
+  "first_seen": "2026-10-09T09:16:53.142846+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-cdfb4e19a6"
  },
  {
@@ -4093,7 +4110,7 @@
   "tasks": [
    "Python library for SBOM CycloneDX 1.5 parsing"
   ],
-  "first_seen": "2026-10-08T03:29:07.693788+00:00",
+  "first_seen": "2026-10-09T09:16:53.142839+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-7fd0e7eae2"
  },
  {
@@ -4280,7 +4297,7 @@
   "tasks": [
    "Python library for SBOM CycloneDX 1.5 parsing"
   ],
-  "first_seen": "2026-10-07T22:32:41.203629+00:00",
+  "first_seen": "2026-10-09T09:16:51.903336+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-74b49b534b"
  },
  {
@@ -4740,7 +4757,7 @@
   "tasks": [
    "Python library for SBOM CycloneDX 1.5 parsing"
   ],
-  "first_seen": "2026-10-09T03:17:36.440974+00:00",
+  "first_seen": "2026-10-09T09:16:51.903319+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-d3b86bb272"
  },
  {
@@ -10181,7 +10198,7 @@
   "tasks": [
    "Python helper for OpenTelemetry log collection on Lambda"
   ],
-  "first_seen": "2026-10-07T22:43:40.127541+00:00",
+  "first_seen": "2026-10-09T09:16:59.739295+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-8f4b10406d"
  },
  {
@@ -10487,7 +10504,7 @@
   "tasks": [
    "Python helper for OpenTelemetry log collection on Lambda"
   ],
-  "first_seen": "2026-10-07T22:43:44.005901+00:00",
+  "first_seen": "2026-10-09T09:17:03.577338+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-0f1875a5f3"
  },
  {
@@ -10623,7 +10640,7 @@
   "tasks": [
    "Python library for SBOM CycloneDX 1.5 parsing"
   ],
-  "first_seen": "2026-10-09T03:17:36.440965+00:00",
+  "first_seen": "2026-10-09T09:16:51.903328+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-ac083c1346"
  },
  {
@@ -11116,7 +11133,7 @@
   "tasks": [
    "Python ORM for PostgreSQL"
   ],
-  "first_seen": "2026-10-08T21:16:15.965138+00:00",
+  "first_seen": "2026-10-09T09:16:17.296302+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-7ec27168a4"
  },
  {
@@ -12085,7 +12102,7 @@
   "tasks": [
    "Python library to canonicalise PURLs"
   ],
-  "first_seen": "2026-10-08T15:31:00.041197+00:00",
+  "first_seen": "2026-10-09T09:18:04.303078+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-a217848a85"
  },
  {
@@ -13428,7 +13445,7 @@
   "tasks": [
    "Python library to parse iCalendar files"
   ],
-  "first_seen": "2026-10-08T15:29:29.353253+00:00",
+  "first_seen": "2026-10-09T09:16:35.764291+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-c1165e50ca"
  },
  {
@@ -14312,7 +14329,7 @@
   "tasks": [
    "Python library to canonicalise PURLs"
   ],
-  "first_seen": "2026-07-05T21:18:11.367947+00:00",
+  "first_seen": "2026-10-09T09:18:04.303072+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-6f1b0a0858"
  },
  {
@@ -14414,7 +14431,7 @@
   "tasks": [
    "library to parse YAML in Python"
   ],
-  "first_seen": "2026-10-09T03:17:01.558257+00:00",
+  "first_seen": "2026-10-09T09:16:18.286473+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-95ec2db3cd"
  },
  {
@@ -15332,7 +15349,7 @@
   "tasks": [
    "library to parse YAML in Python"
   ],
-  "first_seen": "2026-10-09T03:17:02.745206+00:00",
+  "first_seen": "2026-10-09T09:16:19.390833+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-cdca655476"
  },
  {
@@ -15487,6 +15504,23 @@
   ],
   "first_seen": "2026-09-19T15:16:18.925840+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-261a5f9854"
+ },
+ {
+  "id": "VDB-SLOP-pypi-4e3b2255e9",
+  "ecosystem": "PyPI",
+  "name": "sartre",
+  "purl": "pkg:pypi/sartre",
+  "risk": "medium",
+  "registry_status": "young",
+  "built_from": null,
+  "models": [
+   "gpt-4o-mini"
+  ],
+  "tasks": [
+   "library to parse YAML in Python"
+  ],
+  "first_seen": "2026-10-09T09:16:19.390847+00:00",
+  "url": "https://vdb.ai.kr/vuln/VDB-SLOP-pypi-4e3b2255e9"
  },
  {
   "id": "VDB-SLOP-pypi-1c16ab8f59",
@@ -18744,12 +18778,13 @@
   "registry_status": "nonexistent",
   "built_from": null,
   "models": [
+   "claude-haiku-4-5",
    "gemini-2.5-flash"
   ],
   "tasks": [
    "Rust crate for parsing CycloneDX SBOM"
   ],
-  "first_seen": "2026-10-08T21:17:12.048126+00:00",
+  "first_seen": "2026-10-09T09:17:09.838205+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-cratesio-61e443d04e"
  },
  {
@@ -19157,7 +19192,7 @@
   "tasks": [
    "Rust crate for parsing CycloneDX SBOM"
   ],
-  "first_seen": "2026-10-08T09:29:57.534870+00:00",
+  "first_seen": "2026-10-09T09:17:11.135400+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-cratesio-22d2612ed2"
  },
  {
@@ -19871,7 +19906,7 @@
   "tasks": [
    "Rust crate for parsing CycloneDX SBOM"
   ],
-  "first_seen": "2026-10-08T09:29:57.534831+00:00",
+  "first_seen": "2026-10-09T09:17:11.135379+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-cratesio-d01676e9ba"
  },
  {
@@ -20024,7 +20059,7 @@
   "tasks": [
    "Rust crate for parsing CycloneDX SBOM"
   ],
-  "first_seen": "2026-10-08T15:30:05.823598+00:00",
+  "first_seen": "2026-10-09T09:17:11.135390+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-cratesio-dfc90aa1a4"
  },
  {
@@ -20449,7 +20484,7 @@
   "tasks": [
    "Rust crate for parsing CycloneDX SBOM"
   ],
-  "first_seen": "2026-10-09T03:17:56.408437+00:00",
+  "first_seen": "2026-10-09T09:17:11.135409+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-cratesio-e01b63e7ca"
  },
  {
@@ -22115,7 +22150,7 @@
   "tasks": [
    "library to render Markdown with KaTeX math in React"
   ],
-  "first_seen": "2026-08-18T15:16:42.840980+00:00",
+  "first_seen": "2026-10-09T09:15:47.197525+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-npm-034bc9efc6"
  },
  {
@@ -24546,7 +24581,7 @@
   "tasks": [
    "library to detect cron timing collisions"
   ],
-  "first_seen": "2026-10-09T03:16:38.366858+00:00",
+  "first_seen": "2026-10-09T09:15:53.592963+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-npm-41639031e5"
  },
  {
@@ -29918,7 +29953,7 @@
   "tasks": [
    "library to safely sanitise LLM-generated SQL"
   ],
-  "first_seen": "2026-07-14T21:17:57.945761+00:00",
+  "first_seen": "2026-10-09T09:17:38.230312+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-npm-c620f47434"
  },
  {
@@ -30933,12 +30968,12 @@
   "registry_status": "nonexistent",
   "built_from": null,
   "models": [
-   "claude-haiku-4-5"
+   "gpt-4o-mini"
   ],
   "tasks": [
    "library to safely sanitise LLM-generated SQL"
   ],
-  "first_seen": "2026-10-07T21:56:10.414704+00:00",
+  "first_seen": "2026-10-09T09:17:38.230298+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-npm-eb34e6197a"
  },
  {
@@ -32502,7 +32537,7 @@
   "tasks": [
    "small utility library for deep-cloning objects in JS"
   ],
-  "first_seen": "2026-10-09T03:16:14.196885+00:00",
+  "first_seen": "2026-10-09T09:15:27.103015+00:00",
   "url": "https://vdb.ai.kr/vuln/VDB-SLOP-npm-7e09853fe3"
  },
  {
