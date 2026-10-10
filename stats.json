@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T12:17:02.992165+00:00",
+ "generated_at": "2026-10-10T18:17:04.078346+00:00",
  "total": 1976,
  "by_ecosystem": {
   "PyPI": 983,
@@ -19,9 +19,9 @@
   "unpublished — the name is a tombstone": 3
  },
  "names_per_model": {
-  "gpt-4o-mini": 1505,
-  "gemini-2.5-flash": 339,
-  "claude-haiku-4-5": 131,
+  "gpt-4o-mini": 1504,
+  "gemini-2.5-flash": 340,
+  "claude-haiku-4-5": 132,
   "gemini-flash-latest": 2
  },
  "names_seen_by_more_than_one_model": 1,
