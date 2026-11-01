@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T06:17:03.851149+00:00",
+ "generated_at": "2026-11-01T12:17:03.583254+00:00",
  "total": 2146,
  "by_ecosystem": {
   "PyPI": 1054,
@@ -20,8 +20,8 @@
  },
  "names_per_model": {
   "gpt-4o-mini": 1659,
-  "gemini-2.5-flash": 343,
-  "claude-haiku-4-5": 143,
+  "gemini-2.5-flash": 342,
+  "claude-haiku-4-5": 144,
   "gemini-flash-latest": 2
  },
  "names_seen_by_more_than_one_model": 1,
