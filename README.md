@@ -3,8 +3,8 @@
 Package names that large language models recommended for ordinary coding
 tasks, and that do not exist in the registry they were recommended for.
 
-**2152 names** as of 2026-11-02 — PyPI 1055, npm 814, crates.io 195, Go 88.
-1 were produced by more than one
+**2153 names** as of 2026-11-02 — PyPI 1055, npm 815, crates.io 195, Go 88.
+2 were produced by more than one
 model.
 
 Attackers can register these names. Some have been registered before, and the
