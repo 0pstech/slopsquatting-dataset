@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-11-05T06:17:03.453128+00:00",
- "total": 2170,
+ "generated_at": "2026-11-05T12:17:03.852817+00:00",
+ "total": 2171,
  "by_ecosystem": {
-  "PyPI": 1066,
+  "PyPI": 1067,
   "npm": 820,
   "crates.io": 195,
   "Go": 89
  },
  "by_risk": {
-  "high": 2113,
+  "high": 2114,
   "medium": 57
  },
  "by_registry_status": {
-  "nonexistent": 2106,
+  "nonexistent": 2107,
   "nonexistent in a scope that has an owner": 41,
   "unpublished — the name is a tombstone": 10,
   "registered but never published": 7,
   "young": 6
  },
  "names_per_model": {
-  "gpt-4o-mini": 1685,
+  "gpt-4o-mini": 1684,
   "gemini-2.5-flash": 340,
-  "claude-haiku-4-5": 144,
+  "claude-haiku-4-5": 146,
   "gemini-flash-latest": 2
  },
  "names_seen_by_more_than_one_model": 1,
