@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T00:17:04.019109+00:00",
+ "generated_at": "2026-11-11T06:17:03.464593+00:00",
  "total": 2204,
  "by_ecosystem": {
   "PyPI": 1084,
@@ -19,11 +19,11 @@
   "young": 7
  },
  "names_per_model": {
-  "gpt-4o-mini": 1720,
+  "gpt-4o-mini": 1715,
   "gemini-2.5-flash": 339,
-  "claude-haiku-4-5": 145,
+  "claude-haiku-4-5": 149,
   "gemini-flash-latest": 2
  },
- "names_seen_by_more_than_one_model": 2,
+ "names_seen_by_more_than_one_model": 1,
  "source": "https://vdb.ai.kr/ai/slopsquatting"
 }
