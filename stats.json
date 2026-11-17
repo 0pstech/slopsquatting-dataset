@@ -1,29 +1,29 @@
 {
- "generated_at": "2026-11-17T00:17:03.314808+00:00",
- "total": 2248,
+ "generated_at": "2026-11-17T12:17:02.949496+00:00",
+ "total": 2252,
  "by_ecosystem": {
-  "PyPI": 1106,
-  "npm": 845,
+  "PyPI": 1107,
+  "npm": 848,
   "crates.io": 203,
   "Go": 94
  },
  "by_risk": {
-  "high": 2189,
+  "high": 2193,
   "medium": 59
  },
  "by_registry_status": {
-  "nonexistent": 2181,
+  "nonexistent": 2185,
   "nonexistent in a scope that has an owner": 43,
   "unpublished — the name is a tombstone": 10,
   "registered but never published": 8,
   "young": 6
  },
  "names_per_model": {
-  "gpt-4o-mini": 1756,
+  "gpt-4o-mini": 1759,
   "gemini-2.5-flash": 339,
   "claude-haiku-4-5": 152,
   "gemini-flash-latest": 2
  },
- "names_seen_by_more_than_one_model": 1,
+ "names_seen_by_more_than_one_model": 0,
  "source": "https://vdb.ai.kr/ai/slopsquatting"
 }
