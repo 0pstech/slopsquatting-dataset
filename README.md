@@ -3,7 +3,7 @@
 Package names that large language models recommended for ordinary coding
 tasks, and that do not exist in the registry they were recommended for.
 
-**2303 names** as of 2026-11-24 — PyPI 1125, npm 870, crates.io 210, Go 98.
+**2307 names** as of 2026-11-24 — PyPI 1126, npm 872, crates.io 211, Go 98.
 1 were produced by more than one
 model.
 
